@@ -120,3 +120,4 @@
  
 
 
+![](https://github.com/Freddielove29/LAB-02/blob/master/imgs/lab2.PNG?raw=true)
